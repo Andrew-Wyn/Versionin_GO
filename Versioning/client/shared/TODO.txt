@@ -1,0 +1,4 @@
+-*-*-*-*-*-*-*-*-*-*- TODO LIST -*-*-*-*-*-*-*-*-*-*-
+- MIGLIORARE CODICE: aggiungere funzioni dove possoo essere aggiunte e rinominare adeguatamente le variabili
+- AGGIUGERE: alert per la notifica di download e upload dei file / btn per la sicronizzazione locale / btn per la sincronizzazione remota
+- CONTROLLARE: connessione a database remoto
